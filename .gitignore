@@ -172,3 +172,5 @@ cython_debug/
 
 # data
 data/nifty500_5yr_daily/*.csv
+data/usd_to_inr/*
+*.png
