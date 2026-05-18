@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+myvenv/
 
 # Spyder project settings
 .spyderproject
@@ -169,3 +170,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# data
+data/nifty500_5yr_daily/*.csv
+data/usd_to_inr/*
+*.png
