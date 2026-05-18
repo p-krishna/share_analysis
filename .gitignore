@@ -175,3 +175,6 @@ cython_debug/
 data/nifty500_5yr_daily/*.csv
 data/usd_to_inr/*
 *.png
+data/ads_with_change.csv
+data/cluster_labels.csv
+data/ads_for_change_det.csv
